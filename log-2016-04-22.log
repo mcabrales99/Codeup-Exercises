@@ -1,0 +1,14 @@
+2016-04-2206:57:29INFOThis is an info message.
+2016-04-2206:57:29ERRORThis is an info message.
+2016-04-2207:16:46INFOThis is an info message
+2016-04-2207:16:46ERRORTHis is an Error message
+2016-04-2207:17:34 INFOThis is an info message
+2016-04-2207:17:34 ERROR THis is an Error message
+2016-04-2207:17:59 INFO This is an info message
+2016-04-2207:17:59 ERROR THis is an Error message
+2016-04-2207:22:44 INFO This is an info message
+2016-04-2207:22:44 ERROR THis is an Error message
+2016-04-2207:24:31Array This is an info message
+2016-04-2207:24:31Array This is an Error message
+2016-04-2207:25:01 INFO This is an info message
+2016-04-2207:25:01 ERROR This is an Error message
